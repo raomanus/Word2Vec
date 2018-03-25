@@ -1,1 +1,1 @@
-This is just an implementation of the word2vec model. The files contain an implementation of the cross entropy loss function and the noise contrastive estimation loss functions in tensorflow.
+
